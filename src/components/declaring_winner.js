@@ -1,4 +1,5 @@
 import Board from './Board'
+import Game from './Game'
 
 function calculateWinner(squares) {
 	const lines = [
